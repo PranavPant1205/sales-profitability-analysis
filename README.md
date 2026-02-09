@@ -47,5 +47,3 @@ Sample Superstore dataset commonly used for retail analytics practice.
 
 ---
 
-Pranav Pant  
-Aspiring Data Analyst | SQL | Power BI
